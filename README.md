@@ -17,7 +17,7 @@
 ## 🔹 Current Focus  
 
 - ✅ Completing the **Microsoft C# Certification**  
-- 📖 Working through *The C# Player’s Guide* (up to **Chapter 13** so far)  
+- 📖 Working through *The C# Player’s Guide* (up to **Chapter 14** so far)  
 - 🎮 Small console projects (*math games, inventory apps, etc.*)  
 - 🚀 Preparing for **Skill-Tracking app** (ASP.NET Core, minimalistic Anki-style design)  
 
