@@ -1,4 +1,4 @@
-# Vincent Joel Heinzelmann 👋  
+# Vincent Joel Heinzelmann 
 
 💻 Aspiring **Software Developer** – focusing on **C#/.NET** (Microsoft Cert + Player’s Guide)  
 ☁️ Interest in **DevOps & Cloud** (future focus: APIs & Azure)  
