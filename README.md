@@ -6,24 +6,26 @@
 
 ---
 
-##  Background  
+## 🔹 Background  
 
--  Started in tech by customizing **Yomitan dictionaries** and designing **Anki note types** (HTML/CSS/JS) for the Japanese learning community  
--  Self-taught in **C#/.NET**, currently working through the **Microsoft Certification + C# Player’s Guide**  
--  Broad interest in **software engineering & enterprise systems**, with a long-term goal to bridge **development and DevOps/Cloud practices**  
-
----
-
-##  Current Focus  
-
--  Completing the **Microsoft C# Certification**  
--  Working through *The C# Player’s Guide* (up to **Chapter 14** so far)  
--  Small console projects (*math games, inventory apps, etc.*)  
--  Preparing for **Skill-Tracking app** (ASP.NET Core, minimalistic Anki-style design)  
+- 🌐 Started in tech by customizing **Yomitan dictionaries** and designing **Anki note types** (HTML/CSS/JS) for the Japanese learning community  
+- 📚 Self-taught in **C#/.NET**, currently working through the **Microsoft Certification + C# Player’s Guide**  
+- 🏢 Broad interest in **software engineering & enterprise systems**, with a long-term goal to bridge **development and DevOps/Cloud practices**  
 
 ---
 
-##  Next Steps  
+## 🔹  Current Focus  
+
+- ✅ Completing the **Microsoft C# Certification**  
+- 📖 Working through *The C# Player’s Guide* (up to **Chapter 14** so far)  
+- 🎮 Small console projects (*math game, inventory apps, etc.*)  
+- 🚀 Preparing for **Gamified Study & Productivity App**  
+(ASP.NET Core, Pomodoro-based, XP & Level system, beautiful minimalist design with detailed statistics & charts)
+
+
+---
+
+## 🔹  Next Steps  
 
 -  Dive into databases (**SQL & NoSQL**)  
 -  Learn web development with **ASP.NET Core & APIs**  
@@ -31,7 +33,13 @@
 
 ---
 
-##  Tech Stack (so far)  
+## 🔮 Future Project Ideas  
+
+- **Inflammation Score App**: Nutrition-tracking app with AI-based recommendations, focusing on autoimmune-friendly and anti-inflammatory diets  
+
+---
+
+## 🛠️  Tech Stack (so far)  
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
