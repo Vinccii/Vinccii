@@ -18,8 +18,10 @@
 
 - ✅ Completing the **Microsoft C# Certification**  
 - 📖 Working through *The C# Player’s Guide* (up to **Chapter 14** so far)  
-- 🎮 Small console projects (*math game, inventory apps, etc.*)  
-- 🚀 Preparing for **Gamified Study & Productivity App**  
+- 🎮 Small console projects (*math game, inventory apps, etc.*)
+- 🧩 Deepening my skills in Object-Oriented Programming (OOP)
+- 🐞 Practicing debugging techniques
+- 🚀 Preparing for my **Gamified Study & Productivity App**  
 (ASP.NET Core, Pomodoro-based, XP & Level system, beautiful minimalist design with detailed statistics & charts)
 
 
