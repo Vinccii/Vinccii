@@ -6,32 +6,32 @@
 
 ---
 
-## 🔹 Background  
+##  Background  
 
-- 🌐 Started in tech by customizing **Yomitan dictionaries** and designing **Anki note types** (HTML/CSS/JS) for the Japanese learning community  
-- 📚 Self-taught in **C#/.NET**, currently working through the **Microsoft Certification + C# Player’s Guide**  
-- 🏢 Broad interest in **software engineering & enterprise systems**, with a long-term goal to bridge **development and DevOps/Cloud practices**  
-
----
-
-## 🔹 Current Focus  
-
-- ✅ Completing the **Microsoft C# Certification**  
-- 📖 Working through *The C# Player’s Guide* (up to **Chapter 14** so far)  
-- 🎮 Small console projects (*math games, inventory apps, etc.*)  
-- 🚀 Preparing for **Skill-Tracking app** (ASP.NET Core, minimalistic Anki-style design)  
+-  Started in tech by customizing **Yomitan dictionaries** and designing **Anki note types** (HTML/CSS/JS) for the Japanese learning community  
+-  Self-taught in **C#/.NET**, currently working through the **Microsoft Certification + C# Player’s Guide**  
+-  Broad interest in **software engineering & enterprise systems**, with a long-term goal to bridge **development and DevOps/Cloud practices**  
 
 ---
 
-## 🔹 Next Steps  
+##  Current Focus  
 
-- 🗄️ Dive into databases (**SQL & NoSQL**)  
-- 🌍 Learn web development with **ASP.NET Core & APIs**  
-- ☁️ Explore **Azure & DevOps pipelines**  
+-  Completing the **Microsoft C# Certification**  
+-  Working through *The C# Player’s Guide* (up to **Chapter 14** so far)  
+-  Small console projects (*math games, inventory apps, etc.*)  
+-  Preparing for **Skill-Tracking app** (ASP.NET Core, minimalistic Anki-style design)  
 
 ---
 
-## 🛠️ Tech Stack (so far)  
+##  Next Steps  
+
+-  Dive into databases (**SQL & NoSQL**)  
+-  Learn web development with **ASP.NET Core & APIs**  
+-  Explore **Azure & DevOps pipelines**  
+
+---
+
+##  Tech Stack (so far)  
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -45,8 +45,8 @@
 ## 📫 Connect  
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vinccii)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dein-link-hier)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Soon...)  
 
 ---
 
-✨ Always learning · Always building · Developing software with an eye on Cloud & DevOps integration
+never give up :)
